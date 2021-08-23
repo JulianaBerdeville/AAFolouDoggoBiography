@@ -14,7 +14,8 @@
     "vue": "^2.6.11",
     "vue-i18n": "^8.25.0",
     "vue-router": "^3.2.0",
-    "vue-store": "^0.3.1-moved"
+    "vue-store": "^0.3.1-moved",
+    "@vue/cli-service": "~4.5.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
